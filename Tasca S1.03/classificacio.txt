@@ -1,0 +1,3 @@
+Jugador: Víctor, 10 punts.
+Jugador: Eva, 9 punts.
+
