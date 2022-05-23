@@ -84,8 +84,5 @@ public class Principal {
 			month = it.next();
 			System.out.print(month+", ");
 		}
-		
-
-
 	}
 }

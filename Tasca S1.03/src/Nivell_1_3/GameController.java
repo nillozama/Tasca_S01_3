@@ -41,7 +41,6 @@ public class GameController {
         
         br.close();
         fr.close();
-
 	}
 	
 	public String generateRandomCountry() {
